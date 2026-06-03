@@ -1,5 +1,6 @@
 # COSC 1301 Portfolio
 **Student:** Robert Thomas
+
 **Course:** Introduction to Computing 
                       
 ## About Me 
